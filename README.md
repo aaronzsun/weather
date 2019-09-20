@@ -1,2 +1,2 @@
 # weatherprocessing
-R scripts to process large amounts of weather data
+R scripts for lake arrowhead weather data processing
