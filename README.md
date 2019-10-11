@@ -1,2 +1,2 @@
-# weatherprocessing
-R scripts for weather data processing
+# wprocess
+R scripts to process & visualize environmental data
