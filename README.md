@@ -1,2 +1,2 @@
 # wprocess
-R scripts to process & visualize environmental data
+scripts to process environmental data
